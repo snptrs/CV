@@ -1,4 +1,4 @@
-## Your Name
+## Sean Peters
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,15 +11,20 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Aesop** (July 2022 to April 2023)  
+Internal Communications Manager
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+<!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**ao.com** (December 2018 to July 2022)  
+Head of Internal Communications
 
-- Any experience relevent to software development
+<!-- - Any experience relevent to software development -->
+
+**Apple** (March 2009 to March 2014)  
+Manager
+
+<!-- - Any experience relevent to software development -->
 
 ## Skills
 
@@ -45,25 +50,27 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+#### Makers Academy, April–August 2023
+<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine -->
 
-#### Your University / College (start_date to end_date)
+#### The University of Manchester, 2014-15
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MA Twentieth-Century Literature Theory and Culture (Merit)
 
-#### Any other qualifications
+#### The University of Salford, 2011-14
 
-That in some arguable way make you a better software developer or well-rounded person
+- BA English Literature (First)
 
-## Hobbies
+<!-- #### Any other qualifications
 
-Any cool stuff that makes you a super part of a software development team
+That in some arguable way make you a better software developer or well-rounded person -->
+
+<!-- ## Hobbies
+
+Any cool stuff that makes you a super part of a software development team -->
