@@ -39,7 +39,7 @@ I've been interested in tech for as long as I can remember, and first started pr
 
 ## Skills
 
-I've developed a range of skills during my time working in internal comms roles, and while working at Apple, that are highly relevant to the world of software development.
+I've developed a range of skills during my career that are highly relevant to the world of software development.
 
 ### Communication
 Working in internal communications has made me an excellent communicator, not only within my own team and the wider organisation, but with external audiences as well.
