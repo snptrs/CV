@@ -1,6 +1,6 @@
 # Sean Peters
 
-I've been interested in tech for as long as I can remember, and first started programming at primary school (BASIC on an Acorn Archimedes in case you're wondering). My first ever job was as a web developer (HTML, CSS, PHP, MySQL), and then I worked at Apple for several years. After that I started a career in internal comms, but I missed the tech world and decided it was time to pursue software engineering as a career. Having completed an intensive bootcamp with Makers Academy and worked on loads of interesting projects, I’m now looking for a role as a junior software developer.
+I've been interested in tech for as long as I can remember, and first started programming at primary school (BASIC on an Acorn Archimedes in case you're wondering). After working at Apple for several years in a variety of roles I started a career in internal communicationss, but I missed the tech world and decided it was finally time to pursue software engineering as a career. Having completed an intensive bootcamp with Makers Academy and worked on loads of interesting projects, I’m now looking for a role as a junior software developer.
 
 ## Projects
 
