@@ -1,6 +1,6 @@
 # Sean Peters
 
-I've been into tech for as long as I can remember, and first started programming at primary school (BASIC on an Acorn Archimedes in case you're wondering). After working at Apple for several years, I started a career in internal comms. But I missed the tech world and decided it was time to pursue software engineering as a career. Having completed an intensive bootcamp with Makers Academy, I’m now looking for my first software development role.
+I've been interested in tech for as long as I can remember, and first started programming at primary school (BASIC on an Acorn Archimedes in case you're wondering). My first ever job was as a web developer (HTML, CSS, PHP, MySQL), and then I worked at Apple for several years. After that I started a career in internal comms, but I missed the tech world and decided it was time to pursue software engineering as a career. Having completed an intensive bootcamp with Makers Academy and worked on loads of interesting projects, I’m now looking for a role as a junior software developer.
 
 ## Projects
 
@@ -12,24 +12,24 @@ I've been into tech for as long as I can remember, and first started programming
 
 ## Work Experience
 
-**Aesop** (July 2022 to April 2023)  
-Internal Communications Manager
+### Aesop (July 2022 to April 2023)  
+**Internal Communications Manager**
 
 - Led a global team to transform internal communications during a period of intense business change.
 - Successfully implemented a new SharePoint-based intranet, using HTML, CSS, and UX skills to improve internal communication and collaboration.
 - Created a new suite of responsive email templates which were used for all internal communications globally.
 - Developed strong relationships with stakeholders at all levels and across various teams to effectively plan and deliver communications in 26 different countries.
 
-**ao.com** (December 2018 to July 2022)  
-Head of Internal Communications
+### ao.com (December 2018 to July 2022)  
+**Head of Internal Communications**
 
 - Led a team of internal communications professionals in the UK and Germany, overseeing all digital communications throughout the organisation.
 - Rolled out a range of new digital workplace platforms, including Microsoft Teams and Yammer, to enable better communication and collaboration across the business.
 - Conducted focus groups with colleagues and customers to gather insights on the new brand and visual identity launch. Consolidated diverse input into cohesive requirements for the brand's direction.
 - Planned and executed successful internal and external events, effectively managing relationships with various contractors and service providers.
 
-**Apple** (March 2009 to March 2014)  
-Manager
+### Apple (September 2007 to March 2014)  
+**Manager**
 
 - Managed a team of over 100 store colleagues and consistently handled high-volume customer traffic at an Apple Store in Manchester.
 - Successfully completed secondments to the Internal Comms team in London and the Retail Training team in California for six months each, gaining valuable insights into different areas of the business.
@@ -39,30 +39,32 @@ Manager
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+I've developed a range of skills during my time working in internal comms roles, and while working at Apple, that are highly relevant to the world of software development.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+### Communication
+Working in internal communications has made me an excellent communicator, not only within my own team and the wider organisation, but with external audiences as well.
 
+At a basic level, I'm always conscious of making sure all relevant stakeholders are involved in the conversation. I implement effective methods for updating team members on what I'm working on, and regularly seek input and feedback to make sure everything stays on track.
 
-Here's an example
+But more importantly, I'm able to craft a story and articulate a vision. In my internal comms roles, stakeholders would come to be with something that needed to be communicated to the rest of the business. I'd start by breaking the issue down to understand what it was really about, and often this would involve quickly learning about topics that I had no prior knowledge of. I'd then work with the stakeholders to create a narrative around what this meant for colleagues in the wider organisation.
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+### Planning, prioritisation and stakeholder management
+I'm great at breaking a project down into actionable parts, and then creating a robust plan to help me prioritise my workload.
 
-#### Planning
+In any organisation, there's always new information that people want to communicate, but employees can only digest a finite amount of updates. A large part of an internal comms team's role is acting as a filter for that information, and prioritising what to say and when based on the wider business priorities.
 
+This inevitably involves having to push back on some lower-priority projects, or adjust plans to communicate things at a more appropriate time. By building strong relationships with stakeholders throughout the business, I'm able to have honest conversations and explain the reasoning behind why I think we should approach a project in a particular way.
 
-#### Teamwork and building relationships
+### Problem solving
+Problem solving has always been one of my key strengths, and is something that's been central to all my previous jobs.
 
-#### Another skill
+At Apple, I constantly had to solve technical prolems and help customers fix hardware and software issues. Often there wouldn't be an obvious solution, so I had to use a methodical troubleshooting approach, research answers in technical documents, and collaborate with colleagues to come up with a resolution.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Another example happened when I was leading internal comms at ao.com when the first UK Covid lockdown was announced. This presented a huge challenge, as the business had always been heavily office-based, and we didn't have any good channels to communicate with remote employees.
 
-#### Another skill
+We'd been planning to roll out Yammer and Microsoft Teams over the next 6–9 months, and we ended up doing it within 3 weeks instead. I led the team that set up the platforms, localised them for the countries that we operated in, and produced the communications to help employees understand how to use them.
 
+Within a month, we went from only being able to communicate with people by email, to running live, CEO-led Yammer events with over 2,000 employees attending.
 
 ## Education
 
@@ -74,17 +76,7 @@ I honed my communication skills while completing my thesis at university, which 
 - Collaborated daily through pair programming sessions and group projects, gaining expertise in Agile workflows, planning techniques, and effective teamwork.
 
 #### The University of Manchester, 2014-15
-
 - MA Twentieth-Century Literature Theory and Culture (Merit)
 
 #### The University of Salford, 2011-14
-
 - BA English Literature (First)
-
-<!-- #### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person -->
-
-<!-- ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team -->
