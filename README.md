@@ -76,7 +76,7 @@ Within a month, we went from only being able to communicate with people by email
 - Collaborated daily through pair programming sessions and group projects, gaining expertise in Agile workflows, planning techniques, and effective teamwork.
 
 #### The University of Manchester, 2014-15
-- MA Twentieth-Century Literature Theory and Culture (Merit)
+- MA Twentieth-Century Literature, Theory and Culture (Merit)
 
 #### The University of Salford, 2011-14
 - BA English Literature (First)
